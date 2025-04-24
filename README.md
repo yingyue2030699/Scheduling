@@ -1,6 +1,6 @@
 # Disclaimer
 
-⚠️ This is a **personal utility script** — quick and minimal. It is provided **for self-use** and educational purposes. **Use at your own risk.** No guarantees are made regarding correctness or performance in production environments.
+⚠️ This is a **personal utility script** — quick and minimal. It is provided **for self-use** and educational purposes. **Use at your own risk.** No guarantees are made regarding correctness or performance in any environments.
 
 
 # Task Scheduling with OR-Tools
