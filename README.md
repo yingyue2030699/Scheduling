@@ -21,7 +21,8 @@ This repository provides a quick example of how to schedule a set of tasks with 
 - 
 ## Requirements
 
-- Python 3.7+
+- Python 3.9+
 - `ortools`
+- `numpy`
 - `matplotlib` (optional, for visualization)
 - `graphviz` (optional, for visualization; need to set `$PATH` so install with `brew` if on MacOS)
